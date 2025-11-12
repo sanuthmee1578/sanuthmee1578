@@ -1,25 +1,25 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm <span style="color:#f7a700;">Sanuthmee</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#f7a700;">Sanuthmee Nisandima</span></h1>
 <h3 align="center">🎓 2nd Year Undergraduate | Informatics Institute of Technology (IIT) | University of Westminster (UoW)</h3>
 
 <p align="center">
   <a href="https://github.com/sanuthmee1578"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sanuthmee2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sanuthmee-nisandima-4336b3336/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🌱 About Me
+### About Me
 
-Hi! I’m **Sanuthmee**, a second-year undergraduate at **IIT**, studying under the **University of Westminster (UoW)** program.  
-I’m passionate about combining **technology, design, and intelligence** — turning ideas into impactful, data-driven solutions.
+Hi! I’m **Sanuthmee**, a second-year undergraduate at **IIT**, studying under the **University of Westminster (UoW)** degree program.  
+I’m passionate about bringing together **technology, design, and intelligent systems** — exploring how creative code can make real-world impact.
 
-- 💻 Currently exploring **Three.js**, **Node.js**, and **IoT applications**
-- 🎯 Interested in **Machine Learning**, **Creative Coding**, and **Human-Centered Systems**
-- 🧠 Completed modules in **Python**, **MySQL**, **Java (OOP)**, and **Machine Learning (Andrew Ng’s course)**
-- 🧩 Experienced with **React**, **Flutter + Firebase**, and **integrating Python pipelines**
-- 🚀 Always curious about bridging **hardware, software, and design thinking**
+- Currently learning: **Three.js**, **Node.js**, and **IoT-based systems**
+- Completed courses in: **Python**, **MySQL**, **Java (OOP)**, **Machine Learning (Andrew Ng)**, and **React**
+- Interested in: **Machine Learning**, **Creative Coding**, **3D Visualization**, and **Human-Computer Interaction**
+- Experienced in **Flutter + Firebase**, **React**, **Node.js**, and **Python data pipelines**
+- Goal: To build products that merge **hardware, AI, and design thinking**
 
 ---
 
@@ -27,26 +27,26 @@ I’m passionate about combining **technology, design, and intelligence** — tu
 
 #### 🧩 [BlokC – Smart Building Blocks for STEM Learning](https://github.com/orgs/blokC)
 **Tech:** IoT | ML | 3D Modeling | Flutter | Figma | Node.js | MySQL  
-- Developed as an intelligent building block system merging **IoT and AI**  
-- Uses sensors + Raspberry Pi for **real-time data collection and pattern analysis**  
-- Includes a **3D model reconstruction** using *Three.js*  
-- Provides insights into children’s creativity, logical thinking, and spatial growth  
+- A smart building block system that merges **IoT and AI** for children’s STEM learning  
+- Uses **sensors + Raspberry Pi** to collect play data  
+- Generates **3D structure models** via *Three.js*  
+- Provides analytical insights on **creativity, logic, and spatial awareness**  
 
 #### 📱 [Alviora – Flutter + Firebase Product App](https://github.com/sanuthmee1578/Alviora)
 **Tech:** Flutter | Firebase | Python | NumPy  
-- Built for a **university competition** — integrates **Python ML pipelines**  
-- Supports real-time Firebase data handling and an interactive UI  
-- Public repo showcasing my early full-stack mobile development journey  
+- Built for a **university competition**, integrating **Python ML pipelines**  
+- Includes user authentication, real-time Firebase data, and a modern UI  
+- Public repository showcasing practical mobile development  
 
 #### 💡 [Street Bulbs IoT System](#)
 **Tech:** Node.js | MySQL | ESP Modules | REST APIs  
-- Ongoing smart street-light management system  
-- Designed to improve **energy efficiency** and **data monitoring**
+- Smart street lighting system to monitor energy usage  
+- Focus on **data-driven control** and **real-time updates**
 
-#### 🌐 [Three.js Practice & React Projects](#)
+#### 🌐 [React & Three.js Learning Repos](#)
 **Tech:** React | JavaScript | Three.js  
-- Personal sandbox repo for **3D graphics and interactive web rendering**  
-- Learning how to visualize and optimize real-time 3D environments  
+- Personal repos focused on **3D web rendering** and **interactive environments**  
+- Currently private — documenting learning progress and experimental builds  
 
 ---
 
@@ -91,12 +91,13 @@ I’m passionate about combining **technology, design, and intelligence** — tu
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sanuthmee-nisandima-4336b3336/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:sanuthmee2006@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/channels/@me/960894422105620642"><img src="https://img.shields.io/badge/Discord-sanuxzt3482-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Exploring the space where code, creativity, and innovation meet.”</i> ✨
+  <i>“Exploring the space where creativity meets code — and building my way through it.”</i> ✨
 </p>
