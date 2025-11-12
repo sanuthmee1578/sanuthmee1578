@@ -16,7 +16,7 @@ Hi! I’m **Sanuthmee**, a second-year undergraduate at **IIT**, studying under 
 I’m passionate about combining **technology, design, and intelligent systems** — exploring how creative code can make a meaningful difference.
 
 - Currently learning: **Three.js**, **Node.js**, and **IoT-based systems**
-- Completed courses in: **Python**, **MySQL**, **Java (OOP)**, **Machine Learning (Andrew Ng)**, and **React**
+- Completed courses in: **Python**, **MySQL**, **Java (OOP)**, **Machine Learning **, and **React**
 - Interested in: **Machine Learning**, **Creative Coding**, **3D Visualization**, and **Human-Computer Interaction**
 - Experienced in **Flutter + Firebase**, **React**, **Node.js**, and **Python pipelines**
 - Goal: To bridge creativity and engineering in everything I build
