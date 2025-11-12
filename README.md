@@ -13,13 +13,13 @@
 ### About Me
 
 Hi! I’m **Sanuthmee**, a second-year undergraduate at **IIT**, studying under the **University of Westminster (UoW)** degree program.  
-I’m passionate about bringing together **technology, design, and intelligent systems** — exploring how creative code can make real-world impact.
+I’m passionate about combining **technology, design, and intelligent systems** — exploring how creative code can make a meaningful difference.
 
 - Currently learning: **Three.js**, **Node.js**, and **IoT-based systems**
 - Completed courses in: **Python**, **MySQL**, **Java (OOP)**, **Machine Learning (Andrew Ng)**, and **React**
 - Interested in: **Machine Learning**, **Creative Coding**, **3D Visualization**, and **Human-Computer Interaction**
-- Experienced in **Flutter + Firebase**, **React**, **Node.js**, and **Python data pipelines**
-- Goal: To build products that merge **hardware, AI, and design thinking**
+- Experienced in **Flutter + Firebase**, **React**, **Node.js**, and **Python pipelines**
+- Goal: To bridge creativity and engineering in everything I build
 
 ---
 
@@ -27,26 +27,26 @@ I’m passionate about bringing together **technology, design, and intelligent s
 
 #### 🧩 [BlokC – Smart Building Blocks for STEM Learning](https://github.com/orgs/blokC)
 **Tech:** IoT | ML | 3D Modeling | Flutter | Figma | Node.js | MySQL  
-- A smart building block system that merges **IoT and AI** for children’s STEM learning  
-- Uses **sensors + Raspberry Pi** to collect play data  
-- Generates **3D structure models** via *Three.js*  
-- Provides analytical insights on **creativity, logic, and spatial awareness**  
+- Developed a **smart IoT block system** that studies children’s play patterns  
+- Uses **sensors + Raspberry Pi** for data collection and pattern analysis  
+- Recreates real-time **3D structures** via *Three.js*  
+- Provides analytical insights into **creativity and problem-solving skills**  
 
 #### 📱 [Alviora – Flutter + Firebase Product App](https://github.com/sanuthmee1578/Alviora)
 **Tech:** Flutter | Firebase | Python | NumPy  
-- Built for a **university competition**, integrating **Python ML pipelines**  
-- Includes user authentication, real-time Firebase data, and a modern UI  
-- Public repository showcasing practical mobile development  
+- Built for a **university competition**, integrating **ML data pipelines**  
+- Supports **real-time Firebase operations** and sleek UI/UX  
+- Public repo showing your early-stage app development process  
 
 #### 💡 [Street Bulbs IoT System](#)
 **Tech:** Node.js | MySQL | ESP Modules | REST APIs  
-- Smart street lighting system to monitor energy usage  
-- Focus on **data-driven control** and **real-time updates**
+- Smart street-light management system  
+- Focused on **real-time control** and **energy efficiency**
 
 #### 🌐 [React & Three.js Learning Repos](#)
 **Tech:** React | JavaScript | Three.js  
-- Personal repos focused on **3D web rendering** and **interactive environments**  
-- Currently private — documenting learning progress and experimental builds  
+- Sandbox projects exploring **3D web rendering** and **interactive visual environments**  
+- Currently private; includes experiments with shaders and object manipulation  
 
 ---
 
@@ -70,12 +70,18 @@ I’m passionate about bringing together **technology, design, and intelligent s
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-#### 🎨 Design & Prototype Tools
+#### 🎨 Design & Creative Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Procreate-%239999FF.svg?style=for-the-badge&logo=procreate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
 </p>
+
+<!-- Optional: Add more design tools you love (e.g., Lightroom, After Effects, etc.) -->
 
 ---
 
