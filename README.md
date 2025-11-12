@@ -88,9 +88,10 @@ I’m passionate about combining **technology, design, and intelligent systems**
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanuthmee1578&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanuthmee1578&show_icons=true&theme=radical&count_private=true" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanuthmee1578&layout=compact&theme=radical"/>
 </p>
+
 
 ---
 
