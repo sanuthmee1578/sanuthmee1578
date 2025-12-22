@@ -26,7 +26,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 ### 🧠 Featured Projects
 
 #### 🧩 [BlokC – Smart Building Blocks for STEM Learning](https://github.com/orgs/blokC)
-**Tech:** IoT | ML | 3D Modeling | Flutter | Figma | Node.js | MySQL  
+**Tech:** IoT | ML | 3D Modeling | Flutter | Figma | Node.js | CloudFlare 
 - Developed a **smart IoT block system** that studies children’s play patterns  
 - Uses **sensors + Raspberry Pi** for data collection and pattern analysis  
 - Recreates real-time **3D structures** via *Three.js*  
