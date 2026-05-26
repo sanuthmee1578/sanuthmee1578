@@ -77,7 +77,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ---
 
-### 🌱 Contributions Calendar
+###  Contributions Calendar
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar" />
