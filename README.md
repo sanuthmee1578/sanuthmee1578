@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/cyberpunk_sleeping_cat_pixel_404.gif" alt="Cyberpunk sleeping cat GIF" width="850"/>
+  <img src="./assets/cyberpunk_sleeping_cat_pixel_404.gif" alt="Cyberpunk sleeping cat GIF" width="450"/>
 </p>
 
 <h1 align="center">Hi, I'm Sanuthmee 👋</h1>
