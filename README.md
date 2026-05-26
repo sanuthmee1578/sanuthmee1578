@@ -2,11 +2,6 @@
   <img src="./assets/cyberpunk_sleeping_cat_pixel_404.gif" alt="Cyberpunk sleeping cat GIF" width="450"/>
 </p>
 
-<h1 align="center">Hi, I'm Sanuthmee 👋</h1>
-
-<p align="center">
-  Computer Science Undergraduate | Flutter & Firebase Developer | ML Enthusiast
-</p>
 <!-- HEADER -->
 <div align="center">
 
