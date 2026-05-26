@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ChatGPT Image May 27, 2026, 01_41_41 AM.png" alt="Cyberpunk sleeping cat GIF" width="450"/>
+  <img src="./assets/ChatGPT Image May 27, 2026, 01_41_41 AM.png" alt="Cyberpunk sleeping cat GIF" width="850"/>
 </p>
 
 <!-- HEADER -->
