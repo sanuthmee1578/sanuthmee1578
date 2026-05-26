@@ -51,7 +51,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ### 🧠 Featured Projects
 
-#### <img src="./assets/project-icons/blokc.gif" width="34" /> [BlokC – Smart Building Blocks for STEM Learning](https://github.com/orgs/blokC)
+#### <img src="./assets/project-icons/blokc.gif" width="54" /> [BlokC – Smart Building Blocks for STEM Learning](https://github.com/orgs/blokC)
 
 **Tech:** IoT | Machine Learning | 3D Modeling | React | Figma | Node.js | Cloudflare
 
