@@ -1,8 +1,7 @@
+<!-- HEADER -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=100000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Sanuthmee+Nisandima" alt="Pixel Name Banner" />
-
-  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=100000&color=F7A700&center=true&vCenter=true&width=1000&height=100&lines=Sanuthmee+Nisandima" alt="Pixel Name Banner" />
 
   <h3>🎓 2nd Year Undergraduate | Informatics Institute of Technology (IIT) | University of Westminster (UoW)</h3>
 
@@ -17,6 +16,21 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
     </a>
   </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sanuthmee1578&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building ideas with code, design, and intelligent systems
+
+I enjoy creating meaningful digital products by combining  
+**software engineering**, **UI/UX design**, **IoT**, and **machine learning**.
 
 </div>
 
@@ -37,7 +51,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ### 🧠 Featured Projects
 
-#### 🧩 [BlokC – Smart Building Blocks for STEM Learning](https://github.com/orgs/blokC)
+#### <img src="./assets/project-icons/blokc.gif" width="34" /> [BlokC – Smart Building Blocks for STEM Learning](https://github.com/orgs/blokC)
 
 **Tech:** IoT | Machine Learning | 3D Modeling | React | Figma | Node.js | Cloudflare
 
@@ -46,7 +60,9 @@ I’m passionate about combining **technology, design, and intelligent systems**
 - Recreates real-time **3D structures** using **Three.js**
 - Provides analytical insights into **creativity, structure-building, and problem-solving skills**
 
-#### 📱 [Alviora – Flutter + Firebase Product App](https://github.com/sanuthmee1578/Alviora)
+---
+
+#### <img src="./assets/project-icons/alviora.gif" width="34" /> [Alviora – Flutter + Firebase Product App](https://github.com/sanuthmee1578/Alviora)
 
 **Tech:** Flutter | Firebase | Python | NumPy
 
@@ -55,7 +71,9 @@ I’m passionate about combining **technology, design, and intelligent systems**
 - Includes features such as health monitoring, alerts, emergency flows, and interactive user screens
 - Public repo showing my early-stage mobile app development process
 
-#### 💡 Street Bulbs IoT System
+---
+
+#### <img src="./assets/project-icons/streetbulbs.gif" width="34" /> Street Bulbs IoT System
 
 **Tech:** Node.js | MySQL | ESP Modules | REST APIs
 
@@ -63,7 +81,9 @@ I’m passionate about combining **technology, design, and intelligent systems**
 - Focused on **real-time control**, automation, and energy efficiency
 - Explored IoT communication between hardware and backend services
 
-#### 🌐 React & Three.js Learning Repos
+---
+
+#### <img src="./assets/project-icons/threejs.gif" width="34" /> 🌐 React & Three.js Learning Repos
 
 **Tech:** React | JavaScript | Three.js
 
@@ -80,7 +100,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ---
 
-###  Contributions Calendar
+### Contributions Calendar
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar" />
@@ -88,7 +108,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanuthmee1578&show_icons=true&theme=radical&count_private=true" alt="GitHub stats"/>
