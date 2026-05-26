@@ -83,7 +83,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ---
 
-#### <img src="./assets/project-icons/threejs.gif" width="34" /> 🌐 React & Three.js Learning Repos
+#### <img src="./assets/project-icons/threejs.gif" width="34" /> React & Three.js Learning Repos
 
 **Tech:** React | JavaScript | Three.js
 
