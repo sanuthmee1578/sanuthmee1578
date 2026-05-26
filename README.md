@@ -62,7 +62,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ---
 
-#### <img src="./assets/project-icons/alviora.gif" width="34" /> [Alviora – Flutter + Firebase Product App](https://github.com/sanuthmee1578/Alviora)
+#### <img src="./assets/project-icons/alviora.gif" width="54" /> [Alviora – Flutter + Firebase Product App](https://github.com/sanuthmee1578/Alviora)
 
 **Tech:** Flutter | Firebase | Python | NumPy
 
@@ -73,7 +73,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ---
 
-#### <img src="./assets/project-icons/streetbulbs.gif" width="34" /> Street Bulbs IoT System
+#### <img src="./assets/project-icons/streetbulbs.gif" width="54" /> Street Bulbs IoT System
 
 **Tech:** Node.js | MySQL | ESP Modules | REST APIs
 
@@ -83,7 +83,7 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ---
 
-#### <img src="./assets/project-icons/threejs.gif" width="34" /> React & Three.js Learning Repos
+#### <img src="./assets/project-icons/threejs.gif" width="54" /> React & Three.js Learning Repos
 
 **Tech:** React | JavaScript | Three.js
 
