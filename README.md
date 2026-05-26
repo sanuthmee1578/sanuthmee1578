@@ -1,21 +1,24 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hey, I'm <span style="color:#f7a700;">Sanuthmee Nisandima</span></h1>
+<div align="center">
 
-<h3 align="center">
-  🎓 2nd Year Undergraduate | Informatics Institute of Technology (IIT) | University of Westminster (UoW)
-</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=100000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Sanuthmee+Nisandima" alt="Pixel Name Banner" />
 
-<p align="center">
-  <a href="https://github.com/sanuthmee1578">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:sanuthmee2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sanuthmee-nisandima-4336b3336/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+  <br>
+
+  <h3>🎓 2nd Year Undergraduate | Informatics Institute of Technology (IIT) | University of Westminster (UoW)</h3>
+
+  <p>
+    <a href="https://github.com/sanuthmee1578">
+      <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:sanuthmee2006@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sanuthmee-nisandima-4336b3336/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
+
+</div>
 
 ---
 
