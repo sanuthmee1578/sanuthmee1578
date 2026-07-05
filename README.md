@@ -8,6 +8,7 @@
 
 <div align="center">
 
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=100000&color=F7A700&center=true&vCenter=true&width=1000&height=100&lines=Sanuthmee+Nisandima" alt="Pixel Name Banner" />
 
   <h3>🎓 2nd Year Undergraduate | Informatics Institute of Technology (IIT) | University of Westminster (UoW)</h3>
