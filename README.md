@@ -48,7 +48,7 @@ I enjoy creating meaningful digital products by combining
 
 ### About Me
 
-Hi! I’m **Sanuthmee**, a second-year undergraduate at **IIT**, studying under the **University of Westminster (UoW)** degree program.  
+Hi! I’m **Sanuthmee**, a third-year undergraduate at **IIT**, studying under the **University of Westminster (UoW)** degree program.  
 I’m passionate about combining **technology, design, and intelligent systems** — exploring how creative code can make a meaningful difference.
 
 - Currently learning: **Three.js**, **Node.js**, and **IoT-based systems**
