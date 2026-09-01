@@ -28,7 +28,6 @@
 </div>
 
 ---
-
 <div align="center">
 
 ### ✨ Building ideas with code, design, and intelligent systems
