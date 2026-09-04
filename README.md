@@ -136,7 +136,6 @@ I’m passionate about combining **technology, design, and intelligent systems**
 </p>
 
 ---
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="45" />
 </p>
