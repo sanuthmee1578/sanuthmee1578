@@ -36,7 +36,6 @@ I enjoy creating meaningful digital products by combining
 </div>
 
 ---
-
 ### About Me
 
 Hi! I’m **Sanuthmee**, a third-year undergraduate at **IIT**, studying under the **University of Westminster (UoW)** degree program.  
