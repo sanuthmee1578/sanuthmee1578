@@ -98,12 +98,6 @@ I’m passionate about combining **technology, design, and intelligent systems**
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,dart,react,nodejs,threejs,flutter,firebase,git,github,vscode,figma,ai,ps,blender,arduino,raspberrypi,linux,aws&perline=12" />
 </p>
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,dart,react,nodejs,threejs,flutter,firebase,git,github,vscode,figma,ai,ps,blender,arduino,raspberrypi,linux,aws&perline=12" />
-</p>
-
 ### 🛡️ Security & Network Tooling
 
 | Domain | Tools |
