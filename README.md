@@ -104,7 +104,6 @@ I’m passionate about combining **technology, design, and intelligent systems**
   <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/wazuh.png" alt="Wazuh" title="Wazuh" width="48" height="48" />
   <img src="./assets/security-icons/suricata.png" alt="Suricata" title="Suricata" width="48" height="48" />
   <img src="./assets/security-icons/wireshark.png" alt="Wireshark" title="Wireshark" width="48" height="48" />
-  <img src="./assets/security-icons/tshark.png" alt="TShark" title="TShark" width="48" height="48" />
   <img src="./assets/security-icons/nmap.png" alt="Nmap" title="Nmap" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/metasploit/2596BE" alt="Metasploit" title="Metasploit" width="48" height="48" />
   <img src="./assets/security-icons/john.png" alt="John the Ripper" title="John the Ripper" width="48" height="48" />
