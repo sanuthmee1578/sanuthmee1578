@@ -98,15 +98,19 @@ I’m passionate about combining **technology, design, and intelligent systems**
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,dart,react,nodejs,threejs,flutter,firebase,git,github,vscode,figma,ai,ps,blender,arduino,raspberrypi,linux,aws&perline=12" />
 </p>
 
-### 🛡️ Security Tooling & Infrastructure
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,dart,react,nodejs,threejs,flutter,firebase,git,github,vscode,figma,ai,ps,blender,arduino,raspberrypi,linux,aws&perline=12" />
+</p>
+
+### 🛡️ Security & Network Tooling
 
 | Domain | Tools |
 | :--- | :--- |
-| **SIEM & Intrusion Detection** | ![Wazuh](https://shields.io) ![Suricata](https://shields.io) |
-| **Network & Packet Analysis** | ![Wireshark](https://shields.io) ![TShark](https://shields.io) ![Nmap](https://shields.io) |
-| **Penetration Testing & Auditing** | ![Metasploit](https://shields.io) ![John the Ripper](https://shields.io) ![Hydra](https://shields.io) |
-
-
+| **SIEM & Intrusion Detection** | ![Wazuh](https://img.shields.io/badge/Wazuh-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-1E293B?style=for-the-badge&logo=linux&logoColor=white) |
+| **Network & Packet Analysis** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![TShark](https://img.shields.io/badge/TShark-0F4C81?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white) |
+| **Penetration Testing & Auditing** | ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-111827?style=for-the-badge&logo=gnu&logoColor=white) ![Hydra](https://img.shields.io/badge/THC%20Hydra-374151?style=for-the-badge&logo=linux&logoColor=white) |
 ---
 
 ### Contributions Calendar
