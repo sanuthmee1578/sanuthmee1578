@@ -98,17 +98,14 @@ I’m passionate about combining **technology, design, and intelligent systems**
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,dart,react,nodejs,threejs,flutter,firebase,git,github,vscode,figma,ai,ps,blender,arduino,raspberrypi,linux,aws&perline=12" />
 </p>
 
-### 🛡️ Cybersecurity & SecOps
-<p align="center">
-  <img src="https://shields.io" alt="Suricata" />
-  <img src="https://shields.io" alt="Wazuh" />
-  <img src="https://shields.io" alt="Wireshark" />
-  <img src="https://shields.io" alt="TShark" />
-  <img src="https://shields.io" alt="Nmap" />
-  <img src="https://shields.io" alt="Metasploit" />
-  <img src="https://shields.io" alt="John the Ripper" />
-  <img src="https://shields.io" alt="Hydra" />
-</p>
+### 🛡️ Security Tooling & Infrastructure
+
+| Domain | Tools |
+| :--- | :--- |
+| **SIEM & Intrusion Detection** | ![Wazuh](https://shields.io) ![Suricata](https://shields.io) |
+| **Network & Packet Analysis** | ![Wireshark](https://shields.io) ![TShark](https://shields.io) ![Nmap](https://shields.io) |
+| **Penetration Testing & Auditing** | ![Metasploit](https://shields.io) ![John the Ripper](https://shields.io) ![Hydra](https://shields.io) |
+
 
 ---
 
