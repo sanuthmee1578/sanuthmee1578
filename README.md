@@ -100,11 +100,16 @@ I’m passionate about combining **technology, design, and intelligent systems**
 
 ### 🛡️ Security & Network Tooling
 
-| Domain | Tools |
-| :--- | :--- |
-| **SIEM & Intrusion Detection** | ![Wazuh](https://img.shields.io/badge/Wazuh-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-1E293B?style=for-the-badge&logo=linux&logoColor=white) |
-| **Network & Packet Analysis** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![TShark](https://img.shields.io/badge/TShark-0F4C81?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=linux&logoColor=white) |
-| **Penetration Testing & Auditing** | ![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-111827?style=for-the-badge&logo=gnu&logoColor=white) ![Hydra](https://img.shields.io/badge/THC%20Hydra-374151?style=for-the-badge&logo=linux&logoColor=white) |
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/wazuh.png" alt="Wazuh" title="Wazuh" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/suricata.png" alt="Suricata" title="Suricata" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/wireshark.png" alt="Wireshark" title="Wireshark" width="48" height="48" />
+  <img src="./assets/security-icons/tshark.png" alt="TShark" title="TShark" width="48" height="48" />
+  <img src="./assets/security-icons/nmap.png" alt="Nmap" title="Nmap" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/metasploit/2596BE" alt="Metasploit" title="Metasploit" width="48" height="48" />
+  <img src="./assets/security-icons/john.png" alt="John the Ripper" title="John the Ripper" width="48" height="48" />
+  <img src="./assets/security-icons/hydra.png" alt="THC Hydra" title="THC Hydra" width="48" height="48" />
+</p>
 ---
 
 ### Contributions Calendar
